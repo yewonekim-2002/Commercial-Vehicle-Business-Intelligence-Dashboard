@@ -1,0 +1,1001 @@
+sale_id,date,vehicle_type,state,industry,unit_price,units_sold,revenue
+1,2022-01-01,Construction Equipment,WA,Mining,437580.0,2,875160
+2,2022-01-02,Bus,WA,Agriculture,317208.0,1,317208
+3,2022-01-03,Light Commercial,WA,Mining,136403.0,1,136403
+4,2022-01-04,Bus,WA,Mining,181170.0,1,181170
+5,2022-01-05,Bus,SA,Logistics,361312.0,1,361312
+6,2022-01-06,Medium Duty Truck,SA,Government,402023.0,5,2010115
+7,2022-01-07,Light Commercial,NSW,Government,149871.0,2,299742
+8,2022-01-08,Light Commercial,QLD,Mining,122174.0,2,244348
+9,2022-01-09,Light Commercial,WA,Construction,320823.0,1,320823
+10,2022-01-10,Bus,NSW,Agriculture,313563.0,1,313563
+11,2022-01-11,Construction Equipment,QLD,Construction,227653.0,2,455306
+12,2022-01-13,Light Commercial,NT,Construction,200155.0,5,1000775
+13,2022-01-14,Bus,VIC,Mining,423997.0,3,1271991
+14,2022-01-15,Medium Duty Truck,SA,Mining,416190.0,3,1248570
+15,2022-01-16,Construction Equipment,NT,Mining,401822.0,2,803644
+16,2022-01-17,Medium Duty Truck,QLD,Mining,378793.0,1,378793
+17,2022-01-18,Construction Equipment,NT,Government,217795.0,1,217795
+18,2022-01-19,Bus,VIC,Mining,178668.0,5,893340
+19,2022-01-20,Heavy Duty Truck,QLD,Government,303397.0,3,910191
+20,2022-01-21,Construction Equipment,NT,Government,235639.0,5,1178195
+21,2022-01-22,Medium Duty Truck,SA,Mining,442050.0,3,1326150
+22,2022-01-24,Bus,SA,Logistics,329141.0,2,658282
+23,2022-01-25,Construction Equipment,NSW,Agriculture,186019.0,3,558057
+24,2022-01-26,Heavy Duty Truck,NT,Construction,430146.0,5,2150730
+25,2022-01-27,Heavy Duty Truck,WA,Government,118803.0,5,594015
+26,2022-01-28,Light Commercial,NT,Agriculture,239302.0,5,1196510
+27,2022-01-29,Light Commercial,QLD,,238934.0,2,477868
+28,2022-01-30,Medium Duty Truck,QLD,Construction,320147.0,3,960441
+29,2022-01-31,Construction Equipment,NT,Construction,120795.0,3,362385
+30,2022-02-01,Construction Equipment,VIC,Government,360914.0,5,1804570
+31,2022-02-02,Light Commercial,SA,Mining,101093.0,3,303279
+32,2022-02-03,Construction Equipment,QLD,Logistics,483409.0,1,483409
+33,2022-02-05,Construction Equipment,SA,Government,452455.0,1,452455
+34,2022-02-06,Heavy Duty Truck,QLD,Logistics,369713.0,1,369713
+35,2022-02-07,Light Commercial,NSW,Mining,363334.0,3,1090002
+36,2022-02-08,Bus,WA,Mining,414968.0,2,829936
+37,2022-02-09,Light Commercial,QLD,Government,263824.0,2,527648
+38,2022-02-10,Bus,SA,Mining,253399.0,2,506798
+39,2022-02-11,Heavy Duty Truck,NSW,Agriculture,394214.0,2,788428
+40,2022-02-12,Medium Duty Truck,QLD,Construction,130197.0,1,130197
+41,2022-02-13,Construction Equipment,VIC,Government,92261.0,1,92261
+42,2022-02-14,Heavy Duty Truck,WA,Logistics,247584.0,5,1237920
+43,2022-02-16,Construction Equipment,QLD,Agriculture,489932.0,3,1469796
+44,2022-02-17,Medium Duty Truck,NSW,Government,438939.0,3,1316817
+45,2022-02-18,Medium Duty Truck,VIC,Mining,381077.0,2,762154
+46,2022-02-19,Heavy Duty Truck,NT,Mining,225450.0,1,225450
+47,2022-02-20,Medium Duty Truck,NSW,Mining,130583.0,2,261166
+48,2022-02-21,Bus,NSW,Mining,464226.0,5,2321130
+49,2022-02-22,Medium Duty Truck,VIC,Logistics,437515.0,3,1312545
+50,2022-02-23,Construction Equipment,NSW,Agriculture,250105.0,3,750315
+51,2022-02-24,Construction Equipment,VIC,Construction,201032.0,2,402064
+52,2022-02-25,Construction Equipment,QLD,Logistics,296940.0,5,1484700
+53,2022-02-26,Construction Equipment,VIC,Logistics,394748.0,3,1184244
+54,2022-02-28,Bus,VIC,Construction,447218.0,5,2236090
+55,2022-03-01,Light Commercial,WA,Construction,316727.0,5,1583635
+56,2022-03-02,Heavy Duty Truck,VIC,Mining,163869.0,2,327738
+57,2022-03-03,Construction Equipment,VIC,Logistics,357554.0,1,357554
+58,2022-03-04,Medium Duty Truck,NT,Government,435519.0,2,871038
+59,2022-03-05,Construction Equipment,QLD,Construction,277116.0,1,277116
+60,2022-03-06,Medium Duty Truck,WA,Construction,284387.0,5,1421935
+61,2022-03-07,Medium Duty Truck,NT,Agriculture,448199.0,1,448199
+62,2022-03-08,Construction Equipment,SA,Government,292416.0,5,1462080
+63,2022-03-09,Bus,QLD,Government,490012.0,3,1470036
+64,2022-03-11,Medium Duty Truck,QLD,Construction,176716.0,3,530148
+65,2022-03-12,Medium Duty Truck,SA,Mining,144245.0,3,432735
+66,2022-03-13,Construction Equipment,VIC,Agriculture,133056.0,2,266112
+67,2022-03-14,Medium Duty Truck,NT,Government,340736.0,2,681472
+68,2022-03-15,Medium Duty Truck,NSW,Construction,410701.0,5,2053505
+69,2022-03-16,Construction Equipment,WA,Government,369687.0,3,1109061
+70,2022-03-17,Construction Equipment,NSW,Agriculture,315683.0,2,631366
+71,2022-03-18,Heavy Duty Truck,SA,Agriculture,448182.0,3,1344546
+72,2022-03-19,Bus,QLD,Logistics,499940.0,2,999880
+73,2022-03-20,Bus,QLD,Construction,355972.0,1,355972
+74,2022-03-22,Medium Duty Truck,WA,Agriculture,206656.0,1,206656
+75,2022-03-23,Bus,QLD,Logistics,107087.0,3,321261
+76,2022-03-24,Medium Duty Truck,QLD,Logistics,495821.0,5,2479105
+77,2022-03-25,Heavy Duty Truck,WA,Government,383481.0,2,766962
+78,2022-03-26,Construction Equipment,NT,Government,226554.0,2,453108
+79,2022-03-27,Construction Equipment,NT,Logistics,417477.0,1,417477
+80,2022-03-28,Construction Equipment,WA,Government,272024.0,1,272024
+81,2022-03-29,Bus,SA,Agriculture,226535.0,5,1132675
+82,2022-03-30,Heavy Duty Truck,QLD,Mining,333236.0,5,1666180
+83,2022-03-31,Bus,QLD,Agriculture,160448.0,5,802240
+84,2022-04-01,Bus,SA,Logistics,94648.0,3,283944
+85,2022-04-03,Heavy Duty Truck,NT,Logistics,482720.0,1,482720
+86,2022-04-04,Heavy Duty Truck,VIC,Agriculture,385767.0,3,1157301
+87,2022-04-05,Heavy Duty Truck,VIC,Government,125634.0,1,125634
+88,2022-04-06,Heavy Duty Truck,VIC,Government,466742.0,1,466742
+89,2022-04-07,Construction Equipment,NT,Logistics,401478.0,2,802956
+90,2022-04-08,Light Commercial,NT,Construction,420792.0,1,420792
+91,2022-04-09,Light Commercial,SA,,112054.0,1,112054
+92,2022-04-10,Heavy Duty Truck,QLD,Agriculture,160028.0,3,480084
+93,2022-04-11,Light Commercial,SA,Government,112207.0,1,112207
+94,2022-04-12,Light Commercial,SA,Agriculture,320893.0,3,962679
+95,2022-04-14,Heavy Duty Truck,NT,Logistics,171554.0,5,857770
+96,2022-04-15,Light Commercial,VIC,Government,242458.0,1,242458
+97,2022-04-16,Bus,NSW,Agriculture,173276.0,1,173276
+98,2022-04-17,Medium Duty Truck,QLD,Logistics,404925.0,3,1214775
+99,2022-04-18,Medium Duty Truck,NT,Construction,273852.0,5,1369260
+100,2022-04-19,Heavy Duty Truck,VIC,Agriculture,282512.0,2,565024
+101,2022-04-20,Construction Equipment,NSW,Construction,413179.0,5,2065895
+102,2022-04-21,Heavy Duty Truck,NSW,Construction,98210.0,3,294630
+103,2022-04-22,Construction Equipment,NT,Mining,134363.0,5,671815
+104,2022-04-23,Medium Duty Truck,WA,Government,332247.0,3,996741
+105,2022-04-24,Heavy Duty Truck,QLD,Agriculture,168279.0,3,504837
+106,2022-04-26,Bus,NSW,Construction,281420.0,2,562840
+107,2022-04-27,Light Commercial,NT,Mining,276356.0,1,276356
+108,2022-04-28,Construction Equipment,NT,Logistics,293196.0,3,879588
+109,2022-04-29,Light Commercial,VIC,Agriculture,289919.0,3,869757
+110,2022-04-30,Light Commercial,WA,Construction,347324.0,2,694648
+111,2022-05-01,Heavy Duty Truck,QLD,Government,285161.0,3,855483
+112,2022-05-02,Light Commercial,SA,Mining,320363.0,1,320363
+113,2022-05-03,Bus,VIC,Construction,224393.0,2,448786
+114,2022-05-04,Light Commercial,NSW,Government,,1,433492
+115,2022-05-05,Heavy Duty Truck,NSW,Construction,465960.0,1,465960
+116,2022-05-07,Bus,VIC,Agriculture,299754.0,2,599508
+117,2022-05-08,Medium Duty Truck,NT,Agriculture,213053.0,3,639159
+118,2022-05-09,Light Commercial,NSW,Agriculture,273965.0,1,273965
+119,2022-05-10,Heavy Duty Truck,WA,Mining,256892.0,1,256892
+120,2022-05-11,Medium Duty Truck,QLD,Agriculture,418406.0,1,418406
+121,2022-05-12,Medium Duty Truck,WA,Government,224832.0,1,224832
+122,2022-05-13,Construction Equipment,NSW,Construction,243262.0,2,486524
+123,2022-05-14,Bus,SA,Logistics,157411.0,2,314822
+124,2022-05-15,Light Commercial,QLD,Government,375521.0,5,1877605
+125,2022-05-16,Heavy Duty Truck,QLD,Government,128211.0,5,641055
+126,2022-05-18,Construction Equipment,VIC,Agriculture,303981.0,1,303981
+127,2022-05-19,Bus,VIC,Mining,355888.0,3,1067664
+128,2022-05-20,Construction Equipment,SA,Construction,346638.0,1,346638
+129,2022-05-21,Bus,NT,Mining,377139.0,3,1131417
+130,2022-05-22,Bus,QLD,Construction,238049.0,1,238049
+131,2022-05-23,Light Commercial,SA,Construction,319010.0,5,1595050
+132,2022-05-24,Bus,VIC,Mining,124542.0,5,622710
+133,2022-05-25,Construction Equipment,VIC,Government,100651.0,3,301953
+134,2022-05-26,Bus,QLD,Construction,189239.0,1,189239
+135,2022-05-27,Light Commercial,WA,Mining,431075.0,3,1293225
+136,2022-05-28,Light Commercial,NSW,Construction,316416.0,5,1582080
+137,2022-05-30,Construction Equipment,VIC,Logistics,454256.0,1,454256
+138,2022-05-31,Medium Duty Truck,NT,Government,368859.0,1,368859
+139,2022-06-01,Medium Duty Truck,NT,Agriculture,245378.0,3,736134
+140,2022-06-02,Bus,VIC,Construction,240158.0,2,480316
+141,2022-06-03,Heavy Duty Truck,WA,Logistics,497592.0,3,1492776
+142,2022-06-04,Bus,WA,Agriculture,413494.0,5,2067470
+143,2022-06-05,Construction Equipment,SA,Agriculture,423569.0,5,2117845
+144,2022-06-06,Construction Equipment,NT,Construction,438264.0,5,2191320
+145,2022-06-07,Construction Equipment,SA,Mining,467033.0,5,2335165
+146,2022-06-08,Construction Equipment,NT,Construction,231130.0,5,1155650
+147,2022-06-10,Construction Equipment,NSW,Logistics,345948.0,2,691896
+148,2022-06-11,Light Commercial,NSW,Agriculture,426781.0,1,426781
+149,2022-06-12,Medium Duty Truck,QLD,Construction,422338.0,3,1267014
+150,2022-06-13,Construction Equipment,SA,Mining,429061.0,3,1287183
+151,2022-06-14,Heavy Duty Truck,VIC,Construction,154200.0,5,771000
+152,2022-06-15,Heavy Duty Truck,SA,Government,195848.0,3,587544
+153,2022-06-16,Heavy Duty Truck,VIC,Mining,196022.0,5,980110
+154,2022-06-17,Heavy Duty Truck,WA,Logistics,267691.0,2,535382
+155,2022-06-18,Light Commercial,SA,Agriculture,346453.0,2,692906
+156,2022-06-19,Heavy Duty Truck,WA,Construction,412202.0,1,412202
+157,2022-06-20,Construction Equipment,NSW,Mining,152068.0,2,304136
+158,2022-06-22,Bus,NSW,Government,452076.0,2,904152
+159,2022-06-23,Heavy Duty Truck,QLD,Mining,251445.0,1,251445
+160,2022-06-24,Light Commercial,SA,Government,254226.0,3,762678
+161,2022-06-25,Light Commercial,WA,Logistics,227103.0,5,1135515
+162,2022-06-26,Heavy Duty Truck,VIC,Agriculture,314605.0,5,1573025
+163,2022-06-27,Bus,NSW,Logistics,293047.0,3,879141
+164,2022-06-28,Heavy Duty Truck,NSW,Construction,374929.0,1,374929
+165,2022-06-29,Light Commercial,VIC,Mining,339768.0,3,1019304
+166,2022-06-30,Medium Duty Truck,WA,Government,,2,499482
+167,2022-07-01,Construction Equipment,WA,Government,184475.0,1,184475
+168,2022-07-03,Light Commercial,SA,Mining,92282.0,1,92282
+169,2022-07-04,Heavy Duty Truck,SA,Mining,255696.0,1,255696
+170,2022-07-05,Construction Equipment,NT,Construction,269510.0,5,1347550
+171,2022-07-06,Heavy Duty Truck,NT,Logistics,310972.0,3,932916
+172,2022-07-07,Heavy Duty Truck,QLD,Government,419678.0,1,419678
+173,2022-07-08,Medium Duty Truck,NSW,Construction,252777.0,1,252777
+174,2022-07-09,Construction Equipment,SA,Logistics,427108.0,1,427108
+175,2022-07-10,Construction Equipment,WA,Construction,258509.0,3,775527
+176,2022-07-11,Medium Duty Truck,VIC,Government,298944.0,5,1494720
+177,2022-07-12,Light Commercial,WA,Mining,209006.0,2,418012
+178,2022-07-14,Heavy Duty Truck,NSW,Mining,326440.0,5,1632200
+179,2022-07-15,Bus,NT,Logistics,294054.0,1,294054
+180,2022-07-16,Heavy Duty Truck,WA,Agriculture,402727.0,5,2013635
+181,2022-07-17,Heavy Duty Truck,QLD,Logistics,390536.0,5,1952680
+182,2022-07-18,Light Commercial,NSW,Agriculture,97461.0,2,194922
+183,2022-07-19,Heavy Duty Truck,NT,Construction,190123.0,3,570369
+184,2022-07-20,Medium Duty Truck,VIC,Construction,362660.0,3,1087980
+185,2022-07-21,Medium Duty Truck,NT,Government,238586.0,5,1192930
+186,2022-07-22,Construction Equipment,QLD,Agriculture,473395.0,5,2366975
+187,2022-07-23,Bus,NSW,Government,321496.0,3,964488
+188,2022-07-24,Heavy Duty Truck,VIC,Mining,257860.0,3,773580
+189,2022-07-26,Heavy Duty Truck,QLD,Agriculture,296821.0,2,593642
+190,2022-07-27,Light Commercial,NT,Logistics,282121.0,1,282121
+191,2022-07-28,Medium Duty Truck,QLD,Mining,414637.0,5,2073185
+192,2022-07-29,Bus,NSW,Mining,126027.0,3,378081
+193,2022-07-30,Construction Equipment,SA,Logistics,445691.0,5,2228455
+194,2022-07-31,Medium Duty Truck,QLD,Mining,263921.0,5,1319605
+195,2022-08-01,Construction Equipment,QLD,Agriculture,452271.0,3,1356813
+196,2022-08-02,Light Commercial,NT,Government,238930.0,2,477860
+197,2022-08-03,Light Commercial,NT,Mining,305234.0,5,1526170
+198,2022-08-04,Heavy Duty Truck,VIC,Agriculture,169003.0,2,338006
+199,2022-08-06,Bus,NT,Construction,273467.0,3,820401
+200,2022-08-07,Construction Equipment,WA,Agriculture,129758.0,1,129758
+201,2022-08-08,Medium Duty Truck,NSW,Government,406456.0,1,406456
+202,2022-08-09,Light Commercial,NSW,Agriculture,420814.0,5,2104070
+203,2022-08-10,Heavy Duty Truck,SA,Logistics,172279.0,3,516837
+204,2022-08-11,Heavy Duty Truck,SA,Government,105434.0,2,210868
+205,2022-08-12,Construction Equipment,NSW,Construction,285119.0,5,1425595
+206,2022-08-13,Light Commercial,SA,Logistics,427913.0,3,1283739
+207,2022-08-14,Bus,VIC,Agriculture,,3,1007262
+208,2022-08-15,Light Commercial,NT,Government,418821.0,2,837642
+209,2022-08-16,Construction Equipment,NSW,Construction,173555.0,5,867775
+210,2022-08-18,Construction Equipment,SA,Logistics,218379.0,3,655137
+211,2022-08-19,Light Commercial,NSW,Construction,306992.0,3,920976
+212,2022-08-20,Construction Equipment,WA,Agriculture,329511.0,3,988533
+213,2022-08-21,Light Commercial,QLD,Construction,266806.0,2,533612
+214,2022-08-22,Medium Duty Truck,NT,Mining,453809.0,5,2269045
+215,2022-08-23,Light Commercial,NSW,Logistics,158803.0,5,794015
+216,2022-08-24,Light Commercial,QLD,Construction,443847.0,5,2219235
+217,2022-08-25,Construction Equipment,SA,Agriculture,373456.0,5,1867280
+218,2022-08-26,Construction Equipment,QLD,Agriculture,314448.0,1,314448
+219,2022-08-27,Heavy Duty Truck,NT,Construction,265251.0,1,265251
+220,2022-08-29,Heavy Duty Truck,NSW,Agriculture,292514.0,5,1462570
+221,2022-08-30,Medium Duty Truck,WA,Government,335404.0,2,670808
+222,2022-08-31,Heavy Duty Truck,SA,Government,207961.0,1,207961
+223,2022-09-01,Light Commercial,NSW,Government,392523.0,3,1177569
+224,2022-09-02,Construction Equipment,NT,Mining,107297.0,1,107297
+225,2022-09-03,Heavy Duty Truck,SA,Construction,354155.0,3,1062465
+226,2022-09-04,Heavy Duty Truck,VIC,Mining,210234.0,5,1051170
+227,2022-09-05,Medium Duty Truck,QLD,Agriculture,134014.0,1,134014
+228,2022-09-06,Medium Duty Truck,NT,Mining,333166.0,2,666332
+229,2022-09-07,Light Commercial,VIC,Agriculture,494954.0,1,494954
+230,2022-09-09,Construction Equipment,NSW,Agriculture,446477.0,1,446477
+231,2022-09-10,Medium Duty Truck,WA,Logistics,268570.0,1,268570
+232,2022-09-11,Heavy Duty Truck,SA,Government,348864.0,5,1744320
+233,2022-09-12,Construction Equipment,QLD,Agriculture,363264.0,2,726528
+234,2022-09-13,Construction Equipment,SA,Logistics,491983.0,1,491983
+235,2022-09-14,Heavy Duty Truck,NSW,Government,,2,749992
+236,2022-09-15,Medium Duty Truck,SA,Agriculture,431383.0,5,2156915
+237,2022-09-16,Heavy Duty Truck,QLD,Agriculture,484145.0,3,1452435
+238,2022-09-17,Construction Equipment,NSW,Mining,298559.0,1,298559
+239,2022-09-18,Bus,SA,Mining,181575.0,2,363150
+240,2022-09-19,Bus,WA,Government,185040.0,2,370080
+241,2022-09-21,Light Commercial,NT,Agriculture,238510.0,5,1192550
+242,2022-09-22,Heavy Duty Truck,NSW,Construction,269587.0,1,269587
+243,2022-09-23,Heavy Duty Truck,NT,Mining,95744.0,3,287232
+244,2022-09-24,Light Commercial,NSW,Government,304892.0,2,609784
+245,2022-09-25,Light Commercial,WA,Agriculture,490285.0,1,490285
+246,2022-09-26,Light Commercial,NT,Agriculture,394503.0,3,1183509
+247,2022-09-27,Construction Equipment,VIC,Construction,240871.0,2,481742
+248,2022-09-28,Heavy Duty Truck,QLD,Government,450890.0,2,901780
+249,2022-09-29,Construction Equipment,VIC,Agriculture,314834.0,3,944502
+250,2022-09-30,Light Commercial,SA,Mining,210906.0,3,632718
+251,2022-10-02,Heavy Duty Truck,WA,Construction,291260.0,5,1456300
+252,2022-10-03,Construction Equipment,VIC,Government,310931.0,1,310931
+253,2022-10-04,Construction Equipment,NSW,,343593.0,1,343593
+254,2022-10-05,Light Commercial,SA,Mining,328746.0,5,1643730
+255,2022-10-06,Heavy Duty Truck,SA,Government,97597.0,2,195194
+256,2022-10-07,Light Commercial,VIC,Construction,399237.0,3,1197711
+257,2022-10-08,Heavy Duty Truck,VIC,Logistics,293199.0,3,879597
+258,2022-10-09,Bus,WA,Mining,466794.0,3,1400382
+259,2022-10-10,Medium Duty Truck,QLD,Mining,298434.0,2,596868
+260,2022-10-11,Medium Duty Truck,VIC,Mining,247489.0,3,742467
+261,2022-10-12,Medium Duty Truck,VIC,Logistics,473100.0,3,1419300
+262,2022-10-14,Light Commercial,NT,Logistics,205598.0,5,1027990
+263,2022-10-15,Bus,NSW,Agriculture,340100.0,2,680200
+264,2022-10-16,Heavy Duty Truck,NT,Construction,348589.0,1,348589
+265,2022-10-17,Construction Equipment,NT,Agriculture,274233.0,5,1371165
+266,2022-10-18,Heavy Duty Truck,SA,Construction,342388.0,5,1711940
+267,2022-10-19,Construction Equipment,QLD,Logistics,223241.0,1,223241
+268,2022-10-20,Heavy Duty Truck,NSW,Logistics,305164.0,5,1525820
+269,2022-10-21,Bus,WA,Agriculture,243124.0,2,486248
+270,2022-10-22,Construction Equipment,WA,Government,294923.0,3,884769
+271,2022-10-23,Light Commercial,VIC,Agriculture,98036.0,2,196072
+272,2022-10-25,Heavy Duty Truck,VIC,Construction,121778.0,1,121778
+273,2022-10-26,Heavy Duty Truck,WA,Agriculture,244245.0,1,244245
+274,2022-10-27,Construction Equipment,VIC,Mining,251475.0,5,1257375
+275,2022-10-28,Light Commercial,QLD,Construction,292747.0,2,585494
+276,2022-10-29,Light Commercial,NT,,489560.0,2,979120
+277,2022-10-30,Bus,VIC,Government,108800.0,1,108800
+278,2022-10-31,Light Commercial,SA,Logistics,377516.0,2,755032
+279,2022-11-01,Light Commercial,VIC,Construction,413660.0,1,413660
+280,2022-11-02,Light Commercial,NSW,Logistics,372682.0,2,745364
+281,2022-11-03,Medium Duty Truck,QLD,Agriculture,416062.0,2,832124
+282,2022-11-05,Bus,NSW,Mining,498189.0,2,996378
+283,2022-11-06,Heavy Duty Truck,NSW,Government,423299.0,1,423299
+284,2022-11-07,Construction Equipment,SA,Logistics,321312.0,5,1606560
+285,2022-11-08,Heavy Duty Truck,QLD,Construction,149500.0,2,299000
+286,2022-11-09,Bus,QLD,Logistics,257647.0,1,257647
+287,2022-11-10,Construction Equipment,QLD,Construction,326527.0,1,326527
+288,2022-11-11,Bus,QLD,Logistics,200659.0,2,401318
+289,2022-11-12,Light Commercial,QLD,Construction,117716.0,2,235432
+290,2022-11-13,Construction Equipment,SA,Agriculture,486452.0,5,2432260
+291,2022-11-14,Light Commercial,VIC,Construction,499064.0,1,499064
+292,2022-11-15,Heavy Duty Truck,NSW,Construction,92352.0,1,92352
+293,2022-11-17,Heavy Duty Truck,QLD,Mining,223004.0,3,669012
+294,2022-11-18,Construction Equipment,VIC,Construction,428593.0,1,428593
+295,2022-11-19,Construction Equipment,VIC,Mining,98556.0,5,492780
+296,2022-11-20,Bus,NSW,Government,351973.0,3,1055919
+297,2022-11-21,Bus,SA,Mining,438980.0,3,1316940
+298,2022-11-22,Light Commercial,WA,Agriculture,226570.0,3,679710
+299,2022-11-23,Construction Equipment,WA,,297190.0,2,594380
+300,2022-11-24,Heavy Duty Truck,VIC,Government,140098.0,2,280196
+301,2022-11-25,Bus,NT,Agriculture,464313.0,1,464313
+302,2022-11-26,Bus,NT,Logistics,230641.0,3,691923
+303,2022-11-28,Heavy Duty Truck,NSW,Logistics,337199.0,5,1685995
+304,2022-11-29,Bus,WA,Mining,,2,432120
+305,2022-11-30,Light Commercial,VIC,Mining,277954.0,5,1389770
+306,2022-12-01,Construction Equipment,SA,Government,291465.0,5,1457325
+307,2022-12-02,Heavy Duty Truck,WA,Government,220544.0,2,441088
+308,2022-12-03,Construction Equipment,VIC,Construction,90340.0,2,180680
+309,2022-12-04,Bus,VIC,Government,265021.0,2,530042
+310,2022-12-05,Bus,QLD,Construction,172302.0,2,344604
+311,2022-12-06,Heavy Duty Truck,SA,Agriculture,312740.0,3,938220
+312,2022-12-07,Light Commercial,QLD,Mining,90138.0,3,270414
+313,2022-12-08,Medium Duty Truck,NSW,Agriculture,483574.0,3,1450722
+314,2022-12-10,Heavy Duty Truck,QLD,Government,209619.0,3,628857
+315,2022-12-11,Medium Duty Truck,QLD,Agriculture,437520.0,1,437520
+316,2022-12-12,Medium Duty Truck,WA,Agriculture,189931.0,3,569793
+317,2022-12-13,Light Commercial,NT,Agriculture,246951.0,2,493902
+318,2022-12-14,Medium Duty Truck,VIC,Government,433676.0,5,2168380
+319,2022-12-15,Medium Duty Truck,SA,Agriculture,407922.0,3,1223766
+320,2022-12-16,Light Commercial,QLD,Construction,127772.0,1,127772
+321,2022-12-17,Medium Duty Truck,SA,Government,148478.0,2,296956
+322,2022-12-18,Medium Duty Truck,NT,Agriculture,116762.0,5,583810
+323,2022-12-19,Medium Duty Truck,NT,Government,234355.0,5,1171775
+324,2022-12-21,Heavy Duty Truck,QLD,Logistics,284994.0,3,854982
+325,2022-12-22,Heavy Duty Truck,NSW,Construction,260492.0,5,1302460
+326,2022-12-23,Heavy Duty Truck,QLD,Agriculture,407712.0,3,1223136
+327,2022-12-24,Light Commercial,WA,Logistics,437234.0,3,1311702
+328,2022-12-25,Bus,VIC,Logistics,372363.0,2,744726
+329,2022-12-26,Medium Duty Truck,NSW,Government,409313.0,2,818626
+330,2022-12-27,Medium Duty Truck,QLD,Logistics,164965.0,1,164965
+331,2022-12-28,Light Commercial,SA,Construction,267912.0,2,535824
+332,2022-12-29,Medium Duty Truck,NSW,Construction,265767.0,2,531534
+333,2022-12-30,Heavy Duty Truck,NSW,Mining,326281.0,3,978843
+334,2023-01-01,Bus,QLD,Construction,174754.0,2,349508
+335,2023-01-02,Construction Equipment,NSW,Logistics,167988.0,3,503964
+336,2023-01-03,Medium Duty Truck,SA,Construction,240023.0,3,720069
+337,2023-01-04,Heavy Duty Truck,NT,Government,222379.0,2,444758
+338,2023-01-05,Construction Equipment,NSW,Mining,170388.0,1,170388
+339,2023-01-06,Bus,NT,Logistics,442912.0,1,442912
+340,2023-01-07,Construction Equipment,SA,Mining,387572.0,5,1937860
+341,2023-01-08,Heavy Duty Truck,QLD,Logistics,329779.0,5,1648895
+342,2023-01-09,Construction Equipment,VIC,Government,444165.0,2,888330
+343,2023-01-10,Light Commercial,NSW,Mining,470562.0,1,470562
+344,2023-01-11,Construction Equipment,VIC,Agriculture,296846.0,3,890538
+345,2023-01-13,Medium Duty Truck,SA,Logistics,260047.0,5,1300235
+346,2023-01-14,Medium Duty Truck,NSW,Agriculture,222212.0,3,666636
+347,2023-01-15,Light Commercial,NT,Mining,378565.0,5,1892825
+348,2023-01-16,Heavy Duty Truck,WA,Agriculture,353852.0,2,707704
+349,2023-01-17,Medium Duty Truck,VIC,Agriculture,486846.0,1,486846
+350,2023-01-18,Bus,NSW,Mining,166021.0,5,830105
+351,2023-01-19,Medium Duty Truck,VIC,,249380.0,1,249380
+352,2023-01-20,Medium Duty Truck,NSW,Agriculture,134789.0,3,404367
+353,2023-01-21,Heavy Duty Truck,QLD,Agriculture,116086.0,2,232172
+354,2023-01-22,Construction Equipment,NT,Government,369003.0,1,369003
+355,2023-01-24,Medium Duty Truck,VIC,Agriculture,,2,195368
+356,2023-01-25,Light Commercial,WA,Agriculture,,1,181088
+357,2023-01-26,Construction Equipment,WA,Agriculture,484423.0,3,1453269
+358,2023-01-27,Bus,SA,Construction,136099.0,3,408297
+359,2023-01-28,Heavy Duty Truck,NSW,Government,156093.0,2,312186
+360,2023-01-29,Bus,VIC,Agriculture,250761.0,3,752283
+361,2023-01-30,Construction Equipment,SA,Government,400795.0,5,2003975
+362,2023-01-31,Construction Equipment,VIC,Logistics,103893.0,1,103893
+363,2023-02-01,Construction Equipment,NSW,Logistics,156418.0,3,469254
+364,2023-02-02,Bus,WA,Agriculture,215074.0,5,1075370
+365,2023-02-03,Construction Equipment,QLD,,455209.0,2,910418
+366,2023-02-05,Bus,WA,Government,220351.0,5,1101755
+367,2023-02-06,Construction Equipment,SA,Government,281083.0,2,562166
+368,2023-02-07,Light Commercial,NT,Construction,128635.0,2,257270
+369,2023-02-08,Construction Equipment,QLD,Logistics,185071.0,1,185071
+370,2023-02-09,Bus,SA,Government,430662.0,1,430662
+371,2023-02-10,Medium Duty Truck,NSW,Government,458377.0,5,2291885
+372,2023-02-11,Construction Equipment,QLD,Construction,455795.0,1,455795
+373,2023-02-12,Medium Duty Truck,SA,Construction,162805.0,1,162805
+374,2023-02-13,Light Commercial,NSW,Government,474957.0,1,474957
+375,2023-02-14,Heavy Duty Truck,WA,Mining,431207.0,5,2156035
+376,2023-02-16,Light Commercial,NT,Government,354598.0,3,1063794
+377,2023-02-17,Construction Equipment,NSW,Government,373022.0,1,373022
+378,2023-02-18,Medium Duty Truck,VIC,Construction,272170.0,1,272170
+379,2023-02-19,Medium Duty Truck,NSW,Construction,283226.0,5,1416130
+380,2023-02-20,Bus,NSW,Government,234063.0,3,702189
+381,2023-02-21,Medium Duty Truck,NT,Government,158344.0,1,158344
+382,2023-02-22,Bus,VIC,Government,457090.0,2,914180
+383,2023-02-23,Heavy Duty Truck,SA,Construction,126593.0,5,632965
+384,2023-02-24,Construction Equipment,SA,Government,126304.0,1,126304
+385,2023-02-25,Bus,NSW,Government,276292.0,1,276292
+386,2023-02-26,Heavy Duty Truck,VIC,Agriculture,203613.0,2,407226
+387,2023-02-28,Medium Duty Truck,VIC,Mining,290410.0,2,580820
+388,2023-03-01,Medium Duty Truck,NT,Logistics,108354.0,5,541770
+389,2023-03-02,Heavy Duty Truck,WA,Mining,374334.0,5,1871670
+390,2023-03-03,Medium Duty Truck,SA,Agriculture,96142.0,2,192284
+391,2023-03-04,Heavy Duty Truck,NT,Logistics,273043.0,5,1365215
+392,2023-03-05,Bus,QLD,Government,394006.0,2,788012
+393,2023-03-06,Bus,SA,Agriculture,274482.0,1,274482
+394,2023-03-07,Heavy Duty Truck,NT,Government,240575.0,2,481150
+395,2023-03-08,Bus,SA,Construction,215438.0,2,430876
+396,2023-03-09,Bus,WA,Agriculture,138456.0,3,415368
+397,2023-03-11,Bus,QLD,Construction,190167.0,2,380334
+398,2023-03-12,Light Commercial,WA,Agriculture,434179.0,2,868358
+399,2023-03-13,Construction Equipment,QLD,Agriculture,360160.0,3,1080480
+400,2023-03-14,Medium Duty Truck,NSW,,354528.0,5,1772640
+401,2023-03-15,Light Commercial,NT,Logistics,283392.0,3,850176
+402,2023-03-16,Bus,QLD,Mining,498288.0,1,498288
+403,2023-03-17,Heavy Duty Truck,WA,Government,192239.0,3,576717
+404,2023-03-18,Bus,SA,Agriculture,201431.0,1,201431
+405,2023-03-19,Construction Equipment,QLD,Government,432162.0,5,2160810
+406,2023-03-20,Bus,NT,Construction,130510.0,3,391530
+407,2023-03-22,Heavy Duty Truck,QLD,Government,270005.0,3,810015
+408,2023-03-23,Construction Equipment,VIC,Construction,373970.0,5,1869850
+409,2023-03-24,Bus,SA,Government,420170.0,1,420170
+410,2023-03-25,Construction Equipment,NT,Mining,211668.0,3,635004
+411,2023-03-26,Medium Duty Truck,NT,Mining,332700.0,1,332700
+412,2023-03-27,Medium Duty Truck,NSW,Mining,114045.0,3,342135
+413,2023-03-28,Bus,WA,Mining,271948.0,2,543896
+414,2023-03-29,Construction Equipment,NSW,Mining,180102.0,3,540306
+415,2023-03-30,Heavy Duty Truck,NT,Mining,,5,2020315
+416,2023-03-31,Bus,SA,Construction,189441.0,5,947205
+417,2023-04-01,Medium Duty Truck,QLD,Agriculture,248175.0,1,248175
+418,2023-04-03,Medium Duty Truck,QLD,Government,339877.0,3,1019631
+419,2023-04-04,Bus,SA,Mining,226917.0,1,226917
+420,2023-04-05,Construction Equipment,NT,Construction,307770.0,1,307770
+421,2023-04-06,Medium Duty Truck,QLD,Construction,208325.0,2,416650
+422,2023-04-07,Construction Equipment,QLD,Construction,109337.0,2,218674
+423,2023-04-08,Medium Duty Truck,QLD,Agriculture,243385.0,5,1216925
+424,2023-04-09,Medium Duty Truck,WA,Government,430093.0,1,430093
+425,2023-04-10,Light Commercial,WA,Agriculture,352420.0,5,1762100
+426,2023-04-11,Medium Duty Truck,VIC,Logistics,403295.0,3,1209885
+427,2023-04-12,Heavy Duty Truck,NSW,Construction,233016.0,1,233016
+428,2023-04-14,Bus,SA,Logistics,405031.0,1,405031
+429,2023-04-15,Bus,SA,Mining,171442.0,3,514326
+430,2023-04-16,Construction Equipment,SA,Mining,139847.0,3,419541
+431,2023-04-17,Medium Duty Truck,VIC,Agriculture,148653.0,5,743265
+432,2023-04-18,Heavy Duty Truck,WA,Government,307144.0,5,1535720
+433,2023-04-19,Construction Equipment,NT,Logistics,,3,1030983
+434,2023-04-20,Light Commercial,NT,Government,408766.0,5,2043830
+435,2023-04-21,Construction Equipment,VIC,Agriculture,379954.0,3,1139862
+436,2023-04-22,Construction Equipment,NT,Mining,167842.0,1,167842
+437,2023-04-23,Medium Duty Truck,SA,Government,474369.0,1,474369
+438,2023-04-24,Light Commercial,NSW,Government,362647.0,2,725294
+439,2023-04-26,Construction Equipment,QLD,Mining,174761.0,1,174761
+440,2023-04-27,Heavy Duty Truck,WA,Logistics,478583.0,3,1435749
+441,2023-04-28,Heavy Duty Truck,WA,Mining,363734.0,5,1818670
+442,2023-04-29,Bus,VIC,Government,,2,463916
+443,2023-04-30,Light Commercial,WA,Logistics,496082.0,5,2480410
+444,2023-05-01,Light Commercial,SA,Logistics,418768.0,3,1256304
+445,2023-05-02,Bus,NT,Mining,253864.0,1,253864
+446,2023-05-03,Construction Equipment,SA,Government,492980.0,2,985960
+447,2023-05-04,Light Commercial,VIC,Agriculture,346910.0,3,1040730
+448,2023-05-05,Heavy Duty Truck,SA,Government,210356.0,2,420712
+449,2023-05-07,Heavy Duty Truck,NT,Construction,307228.0,2,614456
+450,2023-05-08,Medium Duty Truck,NSW,Agriculture,132727.0,1,132727
+451,2023-05-09,Light Commercial,VIC,,430615.0,3,1291845
+452,2023-05-10,Construction Equipment,NSW,Agriculture,98068.0,5,490340
+453,2023-05-11,Bus,QLD,Logistics,206923.0,2,413846
+454,2023-05-12,Bus,NSW,Logistics,490511.0,2,981022
+455,2023-05-13,Construction Equipment,QLD,Agriculture,101390.0,5,506950
+456,2023-05-14,Medium Duty Truck,QLD,Logistics,196752.0,3,590256
+457,2023-05-15,Bus,NSW,Logistics,446898.0,2,893796
+458,2023-05-16,Light Commercial,VIC,,428113.0,2,856226
+459,2023-05-18,Medium Duty Truck,NT,,236110.0,2,472220
+460,2023-05-19,Light Commercial,SA,Government,314790.0,3,944370
+461,2023-05-20,Heavy Duty Truck,SA,Construction,429208.0,3,1287624
+462,2023-05-21,Medium Duty Truck,NT,Agriculture,,5,556405
+463,2023-05-22,Bus,QLD,Mining,144189.0,3,432567
+464,2023-05-23,Medium Duty Truck,QLD,Mining,352093.0,3,1056279
+465,2023-05-24,Medium Duty Truck,VIC,Mining,400655.0,1,400655
+466,2023-05-25,Medium Duty Truck,WA,Construction,212115.0,5,1060575
+467,2023-05-26,Medium Duty Truck,NSW,Construction,98605.0,2,197210
+468,2023-05-27,Light Commercial,QLD,Logistics,452462.0,3,1357386
+469,2023-05-28,Heavy Duty Truck,SA,Mining,484597.0,2,969194
+470,2023-05-30,Construction Equipment,VIC,Agriculture,371954.0,2,743908
+471,2023-05-31,Medium Duty Truck,NSW,Agriculture,339415.0,1,339415
+472,2023-06-01,Bus,VIC,Mining,245394.0,3,736182
+473,2023-06-02,Medium Duty Truck,NSW,Mining,131869.0,5,659345
+474,2023-06-03,Bus,NSW,Mining,122955.0,3,368865
+475,2023-06-04,Light Commercial,NT,Construction,151388.0,2,302776
+476,2023-06-05,Bus,QLD,Construction,331324.0,5,1656620
+477,2023-06-06,Construction Equipment,VIC,Construction,100207.0,3,300621
+478,2023-06-07,Heavy Duty Truck,VIC,Government,308401.0,2,616802
+479,2023-06-08,Bus,NT,Agriculture,249292.0,2,498584
+480,2023-06-10,Bus,SA,,295157.0,1,295157
+481,2023-06-11,Heavy Duty Truck,SA,Logistics,112031.0,1,112031
+482,2023-06-12,Construction Equipment,QLD,Construction,432951.0,1,432951
+483,2023-06-13,Medium Duty Truck,QLD,Government,161312.0,2,322624
+484,2023-06-14,Bus,WA,Government,149766.0,3,449298
+485,2023-06-15,Heavy Duty Truck,NT,Agriculture,233521.0,1,233521
+486,2023-06-16,Light Commercial,SA,Construction,441977.0,3,1325931
+487,2023-06-17,Heavy Duty Truck,NSW,Logistics,277771.0,1,277771
+488,2023-06-18,Light Commercial,VIC,Construction,327199.0,5,1635995
+489,2023-06-19,Construction Equipment,QLD,Mining,326731.0,5,1633655
+490,2023-06-20,Medium Duty Truck,VIC,Construction,325841.0,1,325841
+491,2023-06-22,Heavy Duty Truck,VIC,Mining,201041.0,2,402082
+492,2023-06-23,Bus,WA,Mining,206185.0,1,206185
+493,2023-06-24,Construction Equipment,SA,Logistics,267164.0,1,267164
+494,2023-06-25,Heavy Duty Truck,QLD,Agriculture,100350.0,2,200700
+495,2023-06-26,Bus,VIC,Construction,317230.0,5,1586150
+496,2023-06-27,Heavy Duty Truck,QLD,Mining,453003.0,3,1359009
+497,2023-06-28,Light Commercial,NSW,Construction,351570.0,1,351570
+498,2023-06-29,Heavy Duty Truck,WA,Agriculture,158487.0,2,316974
+499,2023-06-30,Heavy Duty Truck,NSW,,238694.0,1,238694
+500,2023-07-01,Heavy Duty Truck,QLD,Government,213853.0,2,427706
+501,2023-07-03,Construction Equipment,QLD,Agriculture,,3,1215783
+502,2023-07-04,Heavy Duty Truck,SA,Logistics,325062.0,3,975186
+503,2023-07-05,Bus,VIC,Mining,323077.0,5,1615385
+504,2023-07-06,Light Commercial,VIC,Government,453228.0,2,906456
+505,2023-07-07,Light Commercial,NSW,Logistics,113782.0,2,227564
+506,2023-07-08,Heavy Duty Truck,WA,Construction,380598.0,5,1902990
+507,2023-07-09,Construction Equipment,NT,Mining,420048.0,5,2100240
+508,2023-07-10,Construction Equipment,VIC,,219936.0,2,439872
+509,2023-07-11,Bus,SA,Mining,498808.0,5,2494040
+510,2023-07-12,Heavy Duty Truck,NSW,Construction,243245.0,3,729735
+511,2023-07-14,Light Commercial,NSW,Government,212258.0,1,212258
+512,2023-07-15,Construction Equipment,NT,Government,201668.0,3,605004
+513,2023-07-16,Heavy Duty Truck,SA,Government,476328.0,5,2381640
+514,2023-07-17,Construction Equipment,WA,Agriculture,368710.0,2,737420
+515,2023-07-18,Construction Equipment,SA,Logistics,,2,456524
+516,2023-07-19,Light Commercial,WA,Logistics,128333.0,3,384999
+517,2023-07-20,Medium Duty Truck,SA,Mining,474073.0,2,948146
+518,2023-07-21,Bus,SA,Agriculture,301977.0,5,1509885
+519,2023-07-22,Bus,QLD,Government,179571.0,3,538713
+520,2023-07-23,Light Commercial,NSW,Government,210263.0,2,420526
+521,2023-07-24,Construction Equipment,SA,Construction,484805.0,1,484805
+522,2023-07-26,Heavy Duty Truck,NT,Construction,115235.0,1,115235
+523,2023-07-27,Construction Equipment,SA,Government,90159.0,5,450795
+524,2023-07-28,Light Commercial,VIC,Government,233217.0,2,466434
+525,2023-07-29,Bus,NSW,Agriculture,252993.0,5,1264965
+526,2023-07-30,Construction Equipment,VIC,Logistics,457003.0,3,1371009
+527,2023-07-31,Bus,NSW,Construction,237309.0,1,237309
+528,2023-08-01,Heavy Duty Truck,VIC,Logistics,197507.0,3,592521
+529,2023-08-02,Bus,SA,Agriculture,491460.0,2,982920
+530,2023-08-03,Bus,SA,Government,104743.0,5,523715
+531,2023-08-04,Medium Duty Truck,QLD,Logistics,318174.0,5,1590870
+532,2023-08-06,Medium Duty Truck,NT,Government,136101.0,5,680505
+533,2023-08-07,Medium Duty Truck,VIC,Government,332717.0,3,998151
+534,2023-08-08,Bus,WA,Mining,211534.0,1,211534
+535,2023-08-09,Light Commercial,QLD,Logistics,436371.0,3,1309113
+536,2023-08-10,Bus,VIC,Logistics,320604.0,3,961812
+537,2023-08-11,Light Commercial,VIC,Government,277450.0,2,554900
+538,2023-08-12,Light Commercial,QLD,Agriculture,423270.0,2,846540
+539,2023-08-13,Medium Duty Truck,SA,Mining,408215.0,2,816430
+540,2023-08-14,Construction Equipment,VIC,Government,292193.0,1,292193
+541,2023-08-15,Heavy Duty Truck,SA,Construction,426907.0,1,426907
+542,2023-08-16,Medium Duty Truck,QLD,Construction,325422.0,2,650844
+543,2023-08-18,Medium Duty Truck,SA,Mining,495453.0,2,990906
+544,2023-08-19,Construction Equipment,NSW,Agriculture,236721.0,1,236721
+545,2023-08-20,Heavy Duty Truck,WA,Government,258785.0,5,1293925
+546,2023-08-21,Bus,VIC,Logistics,294535.0,1,294535
+547,2023-08-22,Bus,NT,Mining,266481.0,1,266481
+548,2023-08-23,Medium Duty Truck,WA,Agriculture,269838.0,1,269838
+549,2023-08-24,Heavy Duty Truck,SA,Logistics,136154.0,2,272308
+550,2023-08-25,Medium Duty Truck,VIC,Construction,359160.0,5,1795800
+551,2023-08-26,Light Commercial,SA,Construction,441822.0,1,441822
+552,2023-08-27,Medium Duty Truck,NSW,Logistics,464200.0,2,928400
+553,2023-08-29,Medium Duty Truck,QLD,Mining,144238.0,3,432714
+554,2023-08-30,Bus,VIC,Construction,410752.0,3,1232256
+555,2023-08-31,Bus,NSW,Government,179081.0,1,179081
+556,2023-09-01,Bus,NSW,Logistics,337644.0,3,1012932
+557,2023-09-02,Light Commercial,VIC,Logistics,403105.0,5,2015525
+558,2023-09-03,Bus,SA,Construction,289775.0,3,869325
+559,2023-09-04,Heavy Duty Truck,NT,Mining,379061.0,3,1137183
+560,2023-09-05,Construction Equipment,NSW,Government,380134.0,5,1900670
+561,2023-09-06,Heavy Duty Truck,WA,Mining,152551.0,1,152551
+562,2023-09-07,Heavy Duty Truck,NSW,Agriculture,300695.0,1,300695
+563,2023-09-09,Bus,NT,Agriculture,243512.0,5,1217560
+564,2023-09-10,Construction Equipment,SA,Construction,256277.0,5,1281385
+565,2023-09-11,Construction Equipment,SA,Construction,170811.0,5,854055
+566,2023-09-12,Construction Equipment,WA,Construction,344840.0,3,1034520
+567,2023-09-13,Light Commercial,NSW,Agriculture,407247.0,5,2036235
+568,2023-09-14,Bus,SA,Mining,458266.0,2,916532
+569,2023-09-15,Construction Equipment,NT,Mining,324104.0,3,972312
+570,2023-09-16,Light Commercial,VIC,Construction,109008.0,1,109008
+571,2023-09-17,Medium Duty Truck,QLD,Government,292346.0,1,292346
+572,2023-09-18,Medium Duty Truck,QLD,Mining,122402.0,1,122402
+573,2023-09-19,Light Commercial,QLD,,274456.0,3,823368
+574,2023-09-21,Light Commercial,NSW,Logistics,349994.0,2,699988
+575,2023-09-22,Bus,WA,Logistics,489009.0,5,2445045
+576,2023-09-23,Bus,SA,Logistics,226643.0,5,1133215
+577,2023-09-24,Medium Duty Truck,VIC,Government,499425.0,1,499425
+578,2023-09-25,Construction Equipment,NT,Construction,203550.0,1,203550
+579,2023-09-26,Medium Duty Truck,VIC,Agriculture,181218.0,3,543654
+580,2023-09-27,Construction Equipment,NT,Government,223296.0,2,446592
+581,2023-09-28,Construction Equipment,NSW,Agriculture,269767.0,5,1348835
+582,2023-09-29,Bus,QLD,Agriculture,472923.0,3,1418769
+583,2023-09-30,Heavy Duty Truck,NSW,Construction,481858.0,5,2409290
+584,2023-10-02,Heavy Duty Truck,WA,Logistics,331060.0,1,331060
+585,2023-10-03,Light Commercial,WA,Construction,330016.0,5,1650080
+586,2023-10-04,Bus,NT,Government,122441.0,2,244882
+587,2023-10-05,Construction Equipment,SA,Government,328038.0,2,656076
+588,2023-10-06,Heavy Duty Truck,SA,Government,260201.0,1,260201
+589,2023-10-07,Construction Equipment,NT,Construction,321324.0,2,642648
+590,2023-10-08,Heavy Duty Truck,WA,Agriculture,414512.0,2,829024
+591,2023-10-09,Heavy Duty Truck,WA,Agriculture,182122.0,3,546366
+592,2023-10-10,Heavy Duty Truck,WA,Mining,134760.0,5,673800
+593,2023-10-11,Bus,NSW,Government,375622.0,1,375622
+594,2023-10-12,Medium Duty Truck,WA,Agriculture,480025.0,1,480025
+595,2023-10-14,Construction Equipment,VIC,Mining,423998.0,1,423998
+596,2023-10-15,Bus,QLD,Agriculture,446374.0,1,446374
+597,2023-10-16,Bus,WA,Government,437860.0,1,437860
+598,2023-10-17,Bus,NT,Logistics,,2,466504
+599,2023-10-18,Bus,QLD,Government,188538.0,3,565614
+600,2023-10-19,Bus,NSW,Construction,105372.0,1,105372
+601,2023-10-20,Light Commercial,NT,Agriculture,381940.0,3,1145820
+602,2023-10-21,Construction Equipment,QLD,Agriculture,311035.0,3,933105
+603,2023-10-22,Bus,NT,Construction,450970.0,2,901940
+604,2023-10-23,Construction Equipment,NSW,Construction,472736.0,1,472736
+605,2023-10-25,Light Commercial,VIC,Logistics,445779.0,2,891558
+606,2023-10-26,Light Commercial,NSW,Agriculture,201022.0,1,201022
+607,2023-10-27,Construction Equipment,NSW,Agriculture,144040.0,2,288080
+608,2023-10-28,Heavy Duty Truck,NT,Logistics,427501.0,3,1282503
+609,2023-10-29,Medium Duty Truck,SA,Mining,292440.0,1,292440
+610,2023-10-30,Heavy Duty Truck,WA,Logistics,168356.0,5,841780
+611,2023-10-31,Heavy Duty Truck,WA,Government,368355.0,3,1105065
+612,2023-11-01,Heavy Duty Truck,VIC,Agriculture,457570.0,5,2287850
+613,2023-11-02,Bus,VIC,Construction,357986.0,3,1073958
+614,2023-11-03,Light Commercial,WA,Government,418996.0,2,837992
+615,2023-11-05,Heavy Duty Truck,SA,Agriculture,477881.0,1,477881
+616,2023-11-06,Light Commercial,WA,Logistics,398112.0,3,1194336
+617,2023-11-07,Construction Equipment,SA,Government,369652.0,2,739304
+618,2023-11-08,Medium Duty Truck,VIC,Agriculture,243077.0,1,243077
+619,2023-11-09,Construction Equipment,QLD,Mining,144575.0,1,144575
+620,2023-11-10,Construction Equipment,NT,Mining,240043.0,3,720129
+621,2023-11-11,Bus,VIC,Construction,156914.0,1,156914
+622,2023-11-12,Medium Duty Truck,VIC,Agriculture,339134.0,3,1017402
+623,2023-11-13,Construction Equipment,NSW,Mining,157055.0,1,157055
+624,2023-11-14,Construction Equipment,NSW,Logistics,177697.0,5,888485
+625,2023-11-15,Medium Duty Truck,NSW,Agriculture,196239.0,2,392478
+626,2023-11-17,Medium Duty Truck,NT,Logistics,325469.0,5,1627345
+627,2023-11-18,Construction Equipment,NSW,Logistics,213106.0,3,639318
+628,2023-11-19,Medium Duty Truck,SA,Mining,357499.0,5,1787495
+629,2023-11-20,Construction Equipment,WA,Agriculture,406264.0,3,1218792
+630,2023-11-21,Construction Equipment,QLD,Government,390486.0,1,390486
+631,2023-11-22,Bus,VIC,Mining,92257.0,1,92257
+632,2023-11-23,Heavy Duty Truck,SA,Mining,379508.0,3,1138524
+633,2023-11-24,Construction Equipment,QLD,Agriculture,246044.0,5,1230220
+634,2023-11-25,Light Commercial,SA,Agriculture,201715.0,1,201715
+635,2023-11-26,Heavy Duty Truck,SA,Logistics,116654.0,2,233308
+636,2023-11-28,Heavy Duty Truck,VIC,Agriculture,301841.0,1,301841
+637,2023-11-29,Heavy Duty Truck,WA,Logistics,433567.0,2,867134
+638,2023-11-30,Bus,NSW,Mining,381464.0,5,1907320
+639,2023-12-01,Construction Equipment,NT,Construction,110808.0,2,221616
+640,2023-12-02,Bus,WA,Government,142389.0,2,284778
+641,2023-12-03,Construction Equipment,NT,Mining,208581.0,2,417162
+642,2023-12-04,Bus,VIC,Agriculture,217927.0,2,435854
+643,2023-12-05,Bus,VIC,Government,124773.0,1,124773
+644,2023-12-06,Light Commercial,VIC,Construction,272240.0,2,544480
+645,2023-12-07,Bus,QLD,Construction,428540.0,1,428540
+646,2023-12-08,Medium Duty Truck,NT,Logistics,459836.0,2,919672
+647,2023-12-10,Light Commercial,WA,Government,304764.0,3,914292
+648,2023-12-11,Bus,WA,Logistics,147505.0,5,737525
+649,2023-12-12,Heavy Duty Truck,SA,Mining,438040.0,2,876080
+650,2023-12-13,Medium Duty Truck,SA,Government,108135.0,3,324405
+651,2023-12-14,Medium Duty Truck,SA,Mining,180887.0,2,361774
+652,2023-12-15,Medium Duty Truck,VIC,,212118.0,2,424236
+653,2023-12-16,Light Commercial,WA,Government,399521.0,2,799042
+654,2023-12-17,Bus,NT,Logistics,244626.0,3,733878
+655,2023-12-18,Bus,VIC,,414635.0,5,2073175
+656,2023-12-19,Heavy Duty Truck,QLD,Logistics,335739.0,3,1007217
+657,2023-12-21,Heavy Duty Truck,SA,Construction,410427.0,5,2052135
+658,2023-12-22,Medium Duty Truck,VIC,Logistics,369067.0,2,738134
+659,2023-12-23,Heavy Duty Truck,VIC,Construction,399735.0,1,399735
+660,2023-12-24,Light Commercial,QLD,Logistics,152261.0,2,304522
+661,2023-12-25,Bus,NSW,Government,406480.0,5,2032400
+662,2023-12-26,Medium Duty Truck,WA,Government,426227.0,3,1278681
+663,2023-12-27,Heavy Duty Truck,NT,Government,150948.0,2,301896
+664,2023-12-28,Light Commercial,NSW,Agriculture,330891.0,3,992673
+665,2023-12-29,Light Commercial,SA,Mining,254074.0,3,762222
+666,2023-12-30,Heavy Duty Truck,VIC,Government,378816.0,3,1136448
+667,2024-01-01,Bus,QLD,Construction,356357.0,2,712714
+668,2024-01-02,Heavy Duty Truck,QLD,Government,231365.0,3,694095
+669,2024-01-03,Medium Duty Truck,WA,Agriculture,152507.0,3,457521
+670,2024-01-04,Heavy Duty Truck,NSW,Construction,147134.0,2,294268
+671,2024-01-05,Light Commercial,WA,Agriculture,223172.0,3,669516
+672,2024-01-06,Heavy Duty Truck,VIC,Construction,331225.0,2,662450
+673,2024-01-07,Bus,WA,Logistics,283069.0,5,1415345
+674,2024-01-08,Construction Equipment,NT,Mining,380316.0,5,1901580
+675,2024-01-09,Heavy Duty Truck,QLD,,372276.0,5,1861380
+676,2024-01-10,Bus,QLD,Agriculture,338933.0,3,1016799
+677,2024-01-11,Bus,SA,Mining,370343.0,1,370343
+678,2024-01-13,Light Commercial,SA,Agriculture,126609.0,1,126609
+679,2024-01-14,Bus,VIC,Agriculture,264037.0,3,792111
+680,2024-01-15,Bus,NT,Agriculture,229088.0,1,229088
+681,2024-01-16,Bus,NSW,Mining,384025.0,2,768050
+682,2024-01-17,Bus,WA,Agriculture,303666.0,1,303666
+683,2024-01-18,Medium Duty Truck,VIC,Mining,376616.0,3,1129848
+684,2024-01-19,Medium Duty Truck,SA,Agriculture,272885.0,3,818655
+685,2024-01-20,Light Commercial,WA,Government,321440.0,2,642880
+686,2024-01-21,Heavy Duty Truck,SA,Agriculture,347803.0,5,1739015
+687,2024-01-22,Bus,WA,Construction,257093.0,3,771279
+688,2024-01-24,Heavy Duty Truck,NSW,,406275.0,2,812550
+689,2024-01-25,Heavy Duty Truck,VIC,Logistics,245159.0,1,245159
+690,2024-01-26,Light Commercial,WA,Agriculture,102828.0,1,102828
+691,2024-01-27,Bus,NT,Construction,448808.0,2,897616
+692,2024-01-28,Bus,QLD,Construction,222473.0,2,444946
+693,2024-01-29,Construction Equipment,NT,Mining,367337.0,3,1102011
+694,2024-01-30,Heavy Duty Truck,NT,Government,313461.0,1,313461
+695,2024-01-31,Heavy Duty Truck,QLD,Agriculture,,2,909324
+696,2024-02-01,Medium Duty Truck,NT,Mining,371755.0,1,371755
+697,2024-02-02,Construction Equipment,WA,Government,264863.0,2,529726
+698,2024-02-03,Medium Duty Truck,WA,Agriculture,495166.0,1,495166
+699,2024-02-05,Medium Duty Truck,WA,,428384.0,5,2141920
+700,2024-02-06,Medium Duty Truck,QLD,Agriculture,329719.0,3,989157
+701,2024-02-07,Light Commercial,NT,Construction,298475.0,1,298475
+702,2024-02-08,Light Commercial,QLD,Construction,354889.0,5,1774445
+703,2024-02-09,Medium Duty Truck,WA,Logistics,407387.0,1,407387
+704,2024-02-10,Construction Equipment,NT,Mining,356010.0,1,356010
+705,2024-02-11,Heavy Duty Truck,NT,Government,253317.0,5,1266585
+706,2024-02-12,Construction Equipment,SA,Agriculture,480825.0,1,480825
+707,2024-02-13,Bus,SA,Construction,161354.0,1,161354
+708,2024-02-14,Light Commercial,NSW,Mining,141374.0,3,424122
+709,2024-02-16,Heavy Duty Truck,VIC,Logistics,204397.0,5,1021985
+710,2024-02-17,Heavy Duty Truck,SA,Construction,338552.0,5,1692760
+711,2024-02-18,Bus,QLD,Logistics,476721.0,2,953442
+712,2024-02-19,Bus,SA,Agriculture,433173.0,1,433173
+713,2024-02-20,Medium Duty Truck,NSW,Government,445718.0,3,1337154
+714,2024-02-21,Light Commercial,NT,Construction,382575.0,1,382575
+715,2024-02-22,Light Commercial,NSW,Construction,119336.0,1,119336
+716,2024-02-23,Construction Equipment,NT,Agriculture,393136.0,2,786272
+717,2024-02-24,Medium Duty Truck,NT,Mining,145350.0,1,145350
+718,2024-02-25,Medium Duty Truck,VIC,Government,159561.0,3,478683
+719,2024-02-26,Medium Duty Truck,SA,Construction,404099.0,3,1212297
+720,2024-02-28,Medium Duty Truck,QLD,Government,151240.0,2,302480
+721,2024-02-29,Light Commercial,QLD,Construction,241165.0,1,241165
+722,2024-03-01,Light Commercial,WA,Government,489371.0,3,1468113
+723,2024-03-02,Medium Duty Truck,NT,Logistics,136607.0,1,136607
+724,2024-03-03,Construction Equipment,QLD,Construction,276740.0,1,276740
+725,2024-03-04,Heavy Duty Truck,VIC,Government,271196.0,1,271196
+726,2024-03-05,Heavy Duty Truck,NT,Mining,405014.0,2,810028
+727,2024-03-06,Construction Equipment,VIC,Logistics,154110.0,1,154110
+728,2024-03-07,Medium Duty Truck,QLD,Logistics,274626.0,3,823878
+729,2024-03-08,Light Commercial,QLD,Mining,242008.0,1,242008
+730,2024-03-10,Heavy Duty Truck,WA,Government,469039.0,3,1407117
+731,2024-03-11,Bus,QLD,Agriculture,94426.0,1,94426
+732,2024-03-12,Bus,NT,Mining,309911.0,3,929733
+733,2024-03-13,Construction Equipment,NT,Government,379750.0,3,1139250
+734,2024-03-14,Medium Duty Truck,NT,Mining,118151.0,1,118151
+735,2024-03-15,Heavy Duty Truck,WA,Mining,363452.0,1,363452
+736,2024-03-16,Medium Duty Truck,WA,Construction,330853.0,3,992559
+737,2024-03-17,Heavy Duty Truck,QLD,Government,344595.0,5,1722975
+738,2024-03-18,Construction Equipment,NSW,Agriculture,266743.0,2,533486
+739,2024-03-19,Construction Equipment,NSW,Construction,180306.0,5,901530
+740,2024-03-21,Bus,WA,Mining,315180.0,5,1575900
+741,2024-03-22,Medium Duty Truck,QLD,Mining,459128.0,1,459128
+742,2024-03-23,Bus,NSW,Mining,92204.0,2,184408
+743,2024-03-24,Medium Duty Truck,QLD,Government,182769.0,5,913845
+744,2024-03-25,Bus,QLD,Government,177265.0,1,177265
+745,2024-03-26,Light Commercial,QLD,Construction,383275.0,5,1916375
+746,2024-03-27,Light Commercial,SA,Agriculture,142428.0,5,712140
+747,2024-03-28,Light Commercial,NT,Construction,123870.0,1,123870
+748,2024-03-29,Light Commercial,QLD,Logistics,193547.0,1,193547
+749,2024-03-30,Heavy Duty Truck,SA,Mining,325990.0,1,325990
+750,2024-03-31,Light Commercial,WA,Mining,139067.0,2,278134
+751,2024-04-02,Construction Equipment,NSW,Mining,328083.0,5,1640415
+752,2024-04-03,Construction Equipment,NT,Construction,202217.0,1,202217
+753,2024-04-04,Heavy Duty Truck,NSW,Construction,188934.0,3,566802
+754,2024-04-05,Light Commercial,NT,Mining,232980.0,5,1164900
+755,2024-04-06,Light Commercial,NSW,Construction,426851.0,3,1280553
+756,2024-04-07,Light Commercial,NT,Government,299329.0,2,598658
+757,2024-04-08,Bus,NSW,Government,347354.0,1,347354
+758,2024-04-09,Medium Duty Truck,NSW,Construction,151215.0,3,453645
+759,2024-04-10,Bus,NSW,Mining,276907.0,2,553814
+760,2024-04-11,Medium Duty Truck,NSW,Construction,401573.0,1,401573
+761,2024-04-13,Light Commercial,WA,Construction,434296.0,3,1302888
+762,2024-04-14,Light Commercial,QLD,Construction,198048.0,3,594144
+763,2024-04-15,Bus,VIC,Logistics,259530.0,2,519060
+764,2024-04-16,Bus,SA,Government,267241.0,1,267241
+765,2024-04-17,Medium Duty Truck,VIC,Agriculture,228731.0,1,228731
+766,2024-04-18,Construction Equipment,VIC,Agriculture,329977.0,3,989931
+767,2024-04-19,Medium Duty Truck,NT,Logistics,429384.0,3,1288152
+768,2024-04-20,Bus,QLD,Construction,,3,611064
+769,2024-04-21,Bus,NT,Logistics,398617.0,1,398617
+770,2024-04-22,Heavy Duty Truck,QLD,Logistics,448906.0,2,897812
+771,2024-04-23,Bus,QLD,Mining,310460.0,2,620920
+772,2024-04-25,Heavy Duty Truck,NSW,Government,459100.0,1,459100
+773,2024-04-26,Construction Equipment,WA,Agriculture,470596.0,5,2352980
+774,2024-04-27,Medium Duty Truck,NSW,Construction,276823.0,2,553646
+775,2024-04-28,Medium Duty Truck,WA,Agriculture,478455.0,3,1435365
+776,2024-04-29,Heavy Duty Truck,NT,Agriculture,299987.0,5,1499935
+777,2024-04-30,Medium Duty Truck,WA,Government,359150.0,5,1795750
+778,2024-05-01,Bus,NT,Agriculture,339243.0,2,678486
+779,2024-05-02,Light Commercial,VIC,Agriculture,164218.0,5,821090
+780,2024-05-03,Heavy Duty Truck,VIC,Logistics,286416.0,5,1432080
+781,2024-05-04,Medium Duty Truck,WA,,122430.0,2,244860
+782,2024-05-06,Heavy Duty Truck,WA,Mining,113091.0,2,226182
+783,2024-05-07,Heavy Duty Truck,NT,Construction,347125.0,5,1735625
+784,2024-05-08,Light Commercial,NSW,Agriculture,113989.0,3,341967
+785,2024-05-09,Bus,NT,Construction,165451.0,1,165451
+786,2024-05-10,Heavy Duty Truck,NSW,Mining,108990.0,5,544950
+787,2024-05-11,Medium Duty Truck,VIC,Construction,442414.0,5,2212070
+788,2024-05-12,Construction Equipment,QLD,Mining,432504.0,3,1297512
+789,2024-05-13,Heavy Duty Truck,WA,Logistics,340541.0,5,1702705
+790,2024-05-14,Heavy Duty Truck,NSW,Agriculture,388225.0,5,1941125
+791,2024-05-15,Light Commercial,NT,Mining,232105.0,1,232105
+792,2024-05-17,Bus,VIC,Construction,460416.0,1,460416
+793,2024-05-18,Construction Equipment,NSW,Agriculture,368385.0,1,368385
+794,2024-05-19,Medium Duty Truck,NT,Logistics,214932.0,2,429864
+795,2024-05-20,Construction Equipment,WA,Agriculture,358083.0,2,716166
+796,2024-05-21,Medium Duty Truck,WA,Mining,203000.0,1,203000
+797,2024-05-22,Bus,SA,Logistics,268634.0,1,268634
+798,2024-05-23,Medium Duty Truck,QLD,Construction,125063.0,2,250126
+799,2024-05-24,Light Commercial,SA,,297793.0,3,893379
+800,2024-05-25,Light Commercial,VIC,Logistics,248117.0,5,1240585
+801,2024-05-26,Light Commercial,NSW,Government,399262.0,5,1996310
+802,2024-05-27,Light Commercial,VIC,Logistics,174703.0,1,174703
+803,2024-05-29,Construction Equipment,NT,,,3,977388
+804,2024-05-30,Bus,WA,Agriculture,218557.0,2,437114
+805,2024-05-31,Medium Duty Truck,SA,Construction,379220.0,1,379220
+806,2024-06-01,Medium Duty Truck,SA,Agriculture,343317.0,3,1029951
+807,2024-06-02,Light Commercial,SA,Agriculture,285877.0,3,857631
+808,2024-06-03,Light Commercial,VIC,Mining,396749.0,3,1190247
+809,2024-06-04,Heavy Duty Truck,WA,Agriculture,436709.0,2,873418
+810,2024-06-05,Bus,NSW,Government,391265.0,2,782530
+811,2024-06-06,Construction Equipment,NT,Government,383577.0,5,1917885
+812,2024-06-07,Medium Duty Truck,NSW,Mining,133309.0,5,666545
+813,2024-06-09,Heavy Duty Truck,VIC,Construction,419612.0,3,1258836
+814,2024-06-10,Heavy Duty Truck,NT,Construction,419437.0,3,1258311
+815,2024-06-11,Medium Duty Truck,SA,Agriculture,448402.0,2,896804
+816,2024-06-12,Construction Equipment,QLD,Agriculture,390549.0,5,1952745
+817,2024-06-13,Heavy Duty Truck,VIC,Agriculture,133527.0,3,400581
+818,2024-06-14,Heavy Duty Truck,VIC,Construction,429371.0,5,2146855
+819,2024-06-15,Bus,WA,Logistics,483708.0,5,2418540
+820,2024-06-16,Construction Equipment,NSW,Government,314490.0,3,943470
+821,2024-06-17,Heavy Duty Truck,VIC,Logistics,229883.0,2,459766
+822,2024-06-18,Construction Equipment,VIC,Logistics,183344.0,3,550032
+823,2024-06-19,Medium Duty Truck,SA,Construction,245344.0,3,736032
+824,2024-06-21,Light Commercial,SA,Logistics,313564.0,5,1567820
+825,2024-06-22,Heavy Duty Truck,NT,Mining,137153.0,3,411459
+826,2024-06-23,Bus,QLD,Agriculture,198042.0,2,396084
+827,2024-06-24,Medium Duty Truck,WA,Mining,144110.0,3,432330
+828,2024-06-25,Construction Equipment,QLD,Government,235051.0,2,470102
+829,2024-06-26,Medium Duty Truck,NT,Agriculture,331131.0,2,662262
+830,2024-06-27,Heavy Duty Truck,SA,Logistics,329173.0,5,1645865
+831,2024-06-28,Construction Equipment,NSW,Government,118328.0,1,118328
+832,2024-06-29,Light Commercial,SA,Agriculture,202911.0,1,202911
+833,2024-06-30,Medium Duty Truck,WA,Logistics,365011.0,5,1825055
+834,2024-07-02,Heavy Duty Truck,SA,Mining,149234.0,3,447702
+835,2024-07-03,Bus,WA,Agriculture,377995.0,5,1889975
+836,2024-07-04,Construction Equipment,WA,Logistics,383423.0,2,766846
+837,2024-07-05,Medium Duty Truck,WA,Mining,338503.0,1,338503
+838,2024-07-06,Medium Duty Truck,NT,Government,317135.0,5,1585675
+839,2024-07-07,Light Commercial,WA,Government,163402.0,3,490206
+840,2024-07-08,Light Commercial,WA,Government,367593.0,5,1837965
+841,2024-07-09,Bus,NSW,Government,428365.0,1,428365
+842,2024-07-10,Bus,QLD,Construction,441224.0,5,2206120
+843,2024-07-11,Heavy Duty Truck,VIC,Agriculture,95451.0,5,477255
+844,2024-07-13,Heavy Duty Truck,QLD,Agriculture,177178.0,1,177178
+845,2024-07-14,Bus,WA,Construction,415905.0,2,831810
+846,2024-07-15,Bus,NSW,Logistics,326562.0,2,653124
+847,2024-07-16,Construction Equipment,SA,Logistics,391014.0,1,391014
+848,2024-07-17,Light Commercial,NSW,Government,448710.0,5,2243550
+849,2024-07-18,Heavy Duty Truck,WA,Mining,475893.0,1,475893
+850,2024-07-19,Light Commercial,NSW,Logistics,213765.0,2,427530
+851,2024-07-20,Light Commercial,NSW,Mining,477025.0,3,1431075
+852,2024-07-21,Bus,WA,Agriculture,218389.0,5,1091945
+853,2024-07-22,Construction Equipment,NT,Mining,279699.0,2,559398
+854,2024-07-23,Medium Duty Truck,NSW,Agriculture,287227.0,5,1436135
+855,2024-07-25,Construction Equipment,VIC,Construction,377516.0,1,377516
+856,2024-07-26,Construction Equipment,VIC,Construction,355786.0,3,1067358
+857,2024-07-27,Light Commercial,NSW,Government,350220.0,1,350220
+858,2024-07-28,Construction Equipment,NT,Logistics,386208.0,3,1158624
+859,2024-07-29,Heavy Duty Truck,SA,,315898.0,5,1579490
+860,2024-07-30,Light Commercial,WA,Agriculture,366266.0,5,1831330
+861,2024-07-31,Heavy Duty Truck,VIC,Government,158431.0,1,158431
+862,2024-08-01,Medium Duty Truck,SA,Mining,145745.0,3,437235
+863,2024-08-02,Light Commercial,NSW,Agriculture,140081.0,3,420243
+864,2024-08-03,Medium Duty Truck,SA,Construction,491927.0,5,2459635
+865,2024-08-05,Light Commercial,QLD,Logistics,306204.0,1,306204
+866,2024-08-06,Bus,VIC,Agriculture,491415.0,3,1474245
+867,2024-08-07,Construction Equipment,NSW,Agriculture,166253.0,5,831265
+868,2024-08-08,Bus,WA,Mining,388335.0,2,776670
+869,2024-08-09,Medium Duty Truck,NT,Logistics,362355.0,1,362355
+870,2024-08-10,Construction Equipment,NSW,Construction,201086.0,2,402172
+871,2024-08-11,Light Commercial,WA,Agriculture,454115.0,1,454115
+872,2024-08-12,Construction Equipment,NT,Agriculture,183783.0,5,918915
+873,2024-08-13,Heavy Duty Truck,NT,Mining,215681.0,3,647043
+874,2024-08-14,Construction Equipment,NSW,Government,177893.0,3,533679
+875,2024-08-15,Heavy Duty Truck,SA,Construction,248763.0,3,746289
+876,2024-08-17,Construction Equipment,SA,Logistics,167960.0,1,167960
+877,2024-08-18,Heavy Duty Truck,NT,Agriculture,436532.0,5,2182660
+878,2024-08-19,Medium Duty Truck,SA,Agriculture,112601.0,2,225202
+879,2024-08-20,Bus,QLD,Construction,229227.0,5,1146135
+880,2024-08-21,Light Commercial,NT,Government,290191.0,2,580382
+881,2024-08-22,Construction Equipment,NT,,257849.0,1,257849
+882,2024-08-23,Bus,WA,Construction,371854.0,1,371854
+883,2024-08-24,Light Commercial,SA,Mining,460858.0,2,921716
+884,2024-08-25,Light Commercial,NT,Government,245604.0,2,491208
+885,2024-08-26,Heavy Duty Truck,QLD,Logistics,218727.0,2,437454
+886,2024-08-28,Medium Duty Truck,WA,Agriculture,153227.0,5,766135
+887,2024-08-29,Medium Duty Truck,NSW,Construction,226039.0,2,452078
+888,2024-08-30,Bus,NT,Mining,174289.0,1,174289
+889,2024-08-31,Medium Duty Truck,QLD,Logistics,241094.0,1,241094
+890,2024-09-01,Construction Equipment,VIC,Construction,295743.0,3,887229
+891,2024-09-02,Medium Duty Truck,QLD,Construction,357866.0,2,715732
+892,2024-09-03,Bus,QLD,Logistics,248485.0,5,1242425
+893,2024-09-04,Medium Duty Truck,WA,Mining,433194.0,5,2165970
+894,2024-09-05,Construction Equipment,NSW,Mining,323820.0,5,1619100
+895,2024-09-06,Heavy Duty Truck,VIC,Government,326994.0,3,980982
+896,2024-09-08,Bus,SA,Agriculture,435740.0,1,435740
+897,2024-09-09,Heavy Duty Truck,SA,Logistics,418876.0,5,2094380
+898,2024-09-10,Heavy Duty Truck,QLD,Logistics,495513.0,1,495513
+899,2024-09-11,Heavy Duty Truck,WA,Logistics,158323.0,3,474969
+900,2024-09-12,Light Commercial,WA,Mining,375960.0,2,751920
+901,2024-09-13,Light Commercial,SA,Agriculture,130695.0,2,261390
+902,2024-09-14,Heavy Duty Truck,VIC,Government,145841.0,2,291682
+903,2024-09-15,Bus,NSW,Construction,480642.0,5,2403210
+904,2024-09-16,Construction Equipment,VIC,Construction,288784.0,2,577568
+905,2024-09-17,Construction Equipment,NT,Logistics,197096.0,5,985480
+906,2024-09-18,Medium Duty Truck,NT,Agriculture,182764.0,3,548292
+907,2024-09-20,Bus,NSW,Mining,175744.0,3,527232
+908,2024-09-21,Light Commercial,SA,Agriculture,380626.0,5,1903130
+909,2024-09-22,Heavy Duty Truck,NSW,Agriculture,99171.0,1,99171
+910,2024-09-23,Medium Duty Truck,WA,Mining,190755.0,2,381510
+911,2024-09-24,Construction Equipment,NT,Logistics,198125.0,2,396250
+912,2024-09-25,Light Commercial,QLD,Agriculture,482866.0,2,965732
+913,2024-09-26,Light Commercial,QLD,Construction,458226.0,5,2291130
+914,2024-09-27,Heavy Duty Truck,SA,Mining,93696.0,3,281088
+915,2024-09-28,Construction Equipment,WA,Government,216310.0,2,432620
+916,2024-09-29,Bus,VIC,Logistics,241385.0,3,724155
+917,2024-10-01,Light Commercial,WA,,371293.0,2,742586
+918,2024-10-02,Heavy Duty Truck,QLD,Government,482208.0,2,964416
+919,2024-10-03,Bus,QLD,Government,405665.0,5,2028325
+920,2024-10-04,Construction Equipment,NT,Agriculture,,1,135740
+921,2024-10-05,Light Commercial,WA,Agriculture,196611.0,5,983055
+922,2024-10-06,Bus,WA,Agriculture,488172.0,2,976344
+923,2024-10-07,Bus,QLD,Mining,338922.0,2,677844
+924,2024-10-08,Bus,VIC,Mining,418785.0,1,418785
+925,2024-10-09,Light Commercial,SA,Logistics,153811.0,3,461433
+926,2024-10-10,Light Commercial,SA,,272385.0,3,817155
+927,2024-10-11,Medium Duty Truck,WA,Government,153232.0,2,306464
+928,2024-10-13,Construction Equipment,SA,Construction,,3,1102683
+929,2024-10-14,Heavy Duty Truck,QLD,Logistics,245801.0,2,491602
+930,2024-10-15,Bus,QLD,Mining,202492.0,1,202492
+931,2024-10-16,Medium Duty Truck,WA,Logistics,120099.0,1,120099
+932,2024-10-17,Heavy Duty Truck,WA,Logistics,319206.0,2,638412
+933,2024-10-18,Medium Duty Truck,NT,Logistics,495818.0,1,495818
+934,2024-10-19,Light Commercial,WA,Logistics,208474.0,5,1042370
+935,2024-10-20,Bus,VIC,Construction,361400.0,5,1807000
+936,2024-10-21,Heavy Duty Truck,SA,Agriculture,333588.0,1,333588
+937,2024-10-22,Heavy Duty Truck,WA,Government,124681.0,2,249362
+938,2024-10-24,Heavy Duty Truck,NSW,Logistics,181328.0,2,362656
+939,2024-10-25,Heavy Duty Truck,NT,Logistics,308512.0,1,308512
+940,2024-10-26,Heavy Duty Truck,NSW,Logistics,395505.0,3,1186515
+941,2024-10-27,Medium Duty Truck,QLD,Agriculture,124540.0,5,622700
+942,2024-10-28,Bus,SA,Mining,247608.0,3,742824
+943,2024-10-29,Light Commercial,WA,Mining,174700.0,2,349400
+944,2024-10-30,Light Commercial,NSW,Construction,430676.0,2,861352
+945,2024-10-31,Light Commercial,SA,Mining,277647.0,3,832941
+946,2024-11-01,Light Commercial,QLD,Logistics,479770.0,1,479770
+947,2024-11-02,Medium Duty Truck,VIC,Logistics,486087.0,3,1458261
+948,2024-11-04,Construction Equipment,NT,Logistics,136002.0,3,408006
+949,2024-11-05,Bus,SA,Construction,139812.0,5,699060
+950,2024-11-06,Heavy Duty Truck,SA,,281051.0,5,1405255
+951,2024-11-07,Construction Equipment,VIC,Mining,347906.0,3,1043718
+952,2024-11-08,Light Commercial,SA,Agriculture,198946.0,3,596838
+953,2024-11-09,Construction Equipment,QLD,Agriculture,156668.0,2,313336
+954,2024-11-10,Bus,QLD,Government,189003.0,5,945015
+955,2024-11-11,Heavy Duty Truck,VIC,Mining,301142.0,5,1505710
+956,2024-11-12,Heavy Duty Truck,NT,Logistics,310462.0,2,620924
+957,2024-11-13,Bus,WA,,395142.0,1,395142
+958,2024-11-14,Bus,NSW,Mining,284886.0,5,1424430
+959,2024-11-16,Light Commercial,WA,Agriculture,194601.0,5,973005
+960,2024-11-17,Heavy Duty Truck,SA,Logistics,359956.0,1,359956
+961,2024-11-18,Construction Equipment,NSW,Agriculture,151844.0,5,759220
+962,2024-11-19,Medium Duty Truck,VIC,Government,291165.0,5,1455825
+963,2024-11-20,Medium Duty Truck,VIC,Government,485395.0,1,485395
+964,2024-11-21,Bus,NT,Agriculture,264870.0,1,264870
+965,2024-11-22,Light Commercial,NSW,Mining,164601.0,3,493803
+966,2024-11-23,Medium Duty Truck,QLD,Mining,491491.0,2,982982
+967,2024-11-24,Heavy Duty Truck,NSW,Mining,400001.0,2,800002
+968,2024-11-25,Bus,SA,Agriculture,477699.0,1,477699
+969,2024-11-27,Construction Equipment,QLD,Mining,372844.0,1,372844
+970,2024-11-28,Bus,VIC,Logistics,347927.0,5,1739635
+971,2024-11-29,Construction Equipment,NSW,,263423.0,3,790269
+972,2024-11-30,Bus,WA,Logistics,183330.0,3,549990
+973,2024-12-01,Bus,NT,Mining,315391.0,1,315391
+974,2024-12-02,Bus,WA,Logistics,303606.0,5,1518030
+975,2024-12-03,Construction Equipment,NT,Mining,497085.0,5,2485425
+976,2024-12-04,Construction Equipment,SA,Agriculture,281387.0,2,562774
+977,2024-12-05,Bus,WA,Logistics,331133.0,2,662266
+978,2024-12-06,Medium Duty Truck,NSW,Agriculture,252627.0,5,1263135
+979,2024-12-07,Light Commercial,NSW,Agriculture,415497.0,2,830994
+980,2024-12-09,Light Commercial,WA,Construction,452916.0,1,452916
+981,2024-12-10,Light Commercial,NSW,Mining,268048.0,5,1340240
+982,2024-12-11,Construction Equipment,SA,Government,443646.0,2,887292
+983,2024-12-12,Construction Equipment,QLD,Mining,466087.0,3,1398261
+984,2024-12-13,Medium Duty Truck,SA,Government,461994.0,5,2309970
+985,2024-12-14,Light Commercial,NT,Mining,135095.0,5,675475
+986,2024-12-15,Light Commercial,SA,Agriculture,235342.0,3,706026
+987,2024-12-16,Bus,NT,Logistics,251980.0,1,251980
+988,2024-12-17,Construction Equipment,NSW,Logistics,367667.0,3,1103001
+989,2024-12-18,Light Commercial,QLD,Construction,152433.0,5,762165
+990,2024-12-20,Medium Duty Truck,NSW,Government,109991.0,1,109991
+991,2024-12-21,Medium Duty Truck,VIC,Government,362919.0,2,725838
+992,2024-12-22,Light Commercial,NSW,Government,,2,874278
+993,2024-12-23,Construction Equipment,NT,Agriculture,237745.0,2,475490
+994,2024-12-24,Medium Duty Truck,NSW,Government,212808.0,5,1064040
+995,2024-12-25,Bus,NSW,Logistics,248128.0,3,744384
+996,2024-12-26,Medium Duty Truck,QLD,Agriculture,227686.0,1,227686
+997,2024-12-27,Heavy Duty Truck,NSW,Mining,97415.0,2,194830
+998,2024-12-28,Heavy Duty Truck,QLD,Government,336038.0,1,336038
+999,2024-12-29,Construction Equipment,WA,Government,344205.0,5,1721025
+1000,2024-12-31,Light Commercial,VIC,Mining,389188.0,2,778376
