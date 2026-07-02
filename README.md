@@ -123,3 +123,4 @@ An interactive dashboard was developed in Power BI to monitor key business metri
 **Yewon Kim**
 
 GitHub: https://github.com/yewonekim-2002
+Instagram : https://www.instagram.com/yewone_22?igsh=MTNkOWllM2Q3ZWY2dw%3D%3D&utm_source=qr
